@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software engineering,AgriTech,AI,Business 
 - 🌱 I’m currently learning Software Engineering
   
-- 📫 How to reach me email:kayitesililiane73@gmaiol.com LinkedIn:  KAYITESI Liliane
+- 📫 How to reach me email:kayitesililiane73@gmail.com 
 
 <!---
 ka-lili/ka-lili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
